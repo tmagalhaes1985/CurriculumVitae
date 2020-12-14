@@ -1,4 +1,4 @@
-# tmagalhaes.com.br | Sobre mim
+# Sobre mim
 
 [Thiago Magalhães](mailto:thiago.magalhaes@gmail.com). Site Reliability Engineer @ [ZUP](https://www.zup.com.br/).
 
