@@ -46,31 +46,33 @@ Quando concluí o curso, me parecia fazer sentido seguir com um MBA em Gerenciam
 
 Listei abaixo todas as empresas por onde passei, e quais as últimas funções em que atuei.
 
-- **Engenheiro DevOps** @ [ZUP](https://www.zup.com.br/) (DEZEMBRO/2020 – atual)
-- **Engenheiro DevOps** @ [Cielo](https://www.cielo.com.br/) (JANEIRO/2020 – DEZEMBRO/2020)
+- **Engenheiro DevOps** @ [Zup IT Innovation](https://www.zup.com.br/) (dezembro/2020 – atual)
+  - Responsável pela otimização de performance de aplicações, criação de pipelines, e desenvolvimento de infraestrutura como código e execução de práticas de SRE do projeto [Itaú](https://www.itau.com.br/).
+
+- **Engenheiro DevOps** @ [Cielo](https://www.cielo.com.br/) (janeiro/2020 – dezembro/2020)
   - Responsável pela otimização de performance de aplicações Java, criação de pipelines, e desenvolvimento de infraestrutura como código com Terraform e Python.
   - Responsável pela execução de práticas de SRE do ambiente produtivo do projeto Digital Payments (pagamentos via WhatsApp).
 
-- **Especialista DevOps Sr.** @ [Trustly Inc.](https://www.trustly.net/) (SETEMBRO/2019 – JANEIRO/2020)
+- **Especialista DevOps Sr.** @ [Trustly Inc.](https://www.trustly.net/) (setembro/2019 – janeiro/2020)
   - Responsável pela sustentação das aplicações da companhia e infraestrutura como código utilizando AWS CloudFormation.
   - Responsável pela implantação de práticas de SRE do ambiente produtivo das aplicações.
 
-- **Especialista DevOps Sr.** @ [Ministério Público do Estado do Espírito Santo](https://www.mpes.mp.br/) (ABRIL/2019 – SETEMBRO/2020)
+- **Especialista DevOps Sr.** @ [Ministério Público do Estado do Espírito Santo](https://www.mpes.mp.br/) (abril/2019 – setembro/2020)
   - Responsável pela liderança técnica de 11 colaboradores para as atividades de sustentação aos sistemas do MPES.
   - Responsável pela criação de pipelines no Jenkins e infraestrutura como código utilizando Ansible e Kubernetes.
 
-- **Gerente de Datacenter** @ [pag!](https://www.meupag.com.br/) (JANEIRO/2019 – ABRIL/2020)
+- **Gerente de Datacenter** @ [pag!](https://www.meupag.com.br/) (janeiro/2019 – abril/2020)
   - Responsável pela gestão da infraestrutura de tecnologia da companhia, além da gestão de 9 colaboradores.
   - Responsável pela definição dos modelos de automação de infraestrutura on-premise e nuvem, deploy de aplicações, sustentação e monitoramento de aplicações.
 
-- **Engenheiro de Datacenter Sr.** @ [Decatron Automação](https://www.decatron.com.br/) (JULHO/2012 – DEZEMBRO/2018)
+- **Engenheiro de Datacenter Sr.** @ [Decatron Automação](https://www.decatron.com.br/) (julho/2012 – dezembro/2018)
   - Responsável pelo desenho e implementação de projetos de Datacenter e projetos de recuperação de desastres para clientes corporativos dos mercados de Óleo e Gás e Telecomunicações, com foco em virtualização de servidores com Vmware, soluções de hardware e armazenamento HP, e soluções híbridas em nuvem com AWS.
 
-- **Engenheiro de Datacenter Sr.** @ [Tamtech](http://www.tamtec.com.br/) (JULHO/2010 – JUNHO/2012)
+- **Engenheiro de Datacenter Sr.** @ [Tamtech](http://www.tamtec.com.br/) (julho/2010 – junho/2012)
   - Responsável pelo desenho e implementação de projetos de Datacenter e projetos de recuperação de desastres para clientes governamentais, com foco em virtualização de servidores com Vmware e soluções de hardware e armazenamento Dell.
 
-- **Administrador de Sistemas** @ [B2W Digital](https://ri.b2w.digital/) (OUTUBRO/2008 – JULHO/2010)
+- **Administrador de Sistemas** @ [B2W Digital](https://ri.b2w.digital/) (outubro/2008 – julho/2010)
   - Responsável pela liderança técnica de 4 colaboradores para as atividades de gerenciamento dos sistemas web responsáveis pelas venda online do site Americanas.com, bem como monitoramento e sustentação de sistemas em ambiente de produção.
 
-- **Administrador de Sistemas** @ [Ambev](https://www.ambev.com.br/) (MAIO/2005 – OUTUBRO/2008)
+- **Administrador de Sistemas** @ [Ambev](https://www.ambev.com.br/) (maio/2005 – outubro/2008)
   - Responsável pela liderança técnica de 14 colaboradores para as atividades de administração de sistemas corporativos para gerenciamento de vendas dos Centros de Distribuição da companhia e administração da infraestrutura de telecomunicações dos sites do RJ.
