@@ -1,11 +1,10 @@
-# Sobre mim
+## Um pouco sobre mim
 
-[Thiago Magalhães](mailto:thiago.magalhaes@gmail.com). Site Reliability Engineer @ [ZUP](https://www.zup.com.br/).
+[Thiago Magalhães](mailto:thiago.magalhaes@gmail.com), prazer. Sou SRE na [Zup Innovation](https://www.zup.com.br/).
 
-- [LinkedIn](https://linkedin.com/in/tmagalhaes1985)
-- [GitHub](https://github.com/tmagalhaes1985)
+Meu principal trabalho é fomentar a adoção da cultura de nuvem & DevOps, automatizando tudo e entregando projetos resilientes e escaláveis para aplicações distribuídas, big data, processamento em lote, e o que mais for necessário.
 
-Meu trabalho é fomentar a adoção da cultura de nuvem & DevOps, automatizando tudo e entregando projetos resilientes e escaláveis para aplicações distribuídas, big data, processamento em lote, e o que mais for necessário.
+Também iniciei um projeto educacional recentemente, focado no desenvolvimento de novos profissionais na área de Tecnologia (em breve no Udemy!).
 
 ## O que eu faço de diferente?
 
